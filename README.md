@@ -8,9 +8,7 @@ This is classic snake game in physical version with Rasberry Pi Pico, written in
 
 All you have to do is:
 
-- Download Zip file of this project
-
-- extract files to a folder
+- git clone project to choosen destination
 
 -  Connect to your pico 4 buttons, 1 oled and 1 buzzer to the pins listed below
       * right button to pin 14
