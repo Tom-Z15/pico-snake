@@ -1,4 +1,4 @@
-# Snake-game-with-pico-and-micropython
+# pico-snake
 
 
 Hello there. 
